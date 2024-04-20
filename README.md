@@ -22,3 +22,11 @@ This project aims to perform sentiment analysis using various machine learning a
 
 ## Dataset
 We used the [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset) from Kaggle. The dataset contains text data labeled with sentiment categories.
+
+## Methodology and Results
+Our methodology involved preprocessing text data, including cleaning, normalization, and vectorization. We experimented with various machine learning algorithms and evaluated their performance based on accuracy, precision, recall, and F1-score. We conducted analyses with and without NLTK preprocessing to assess its impact on model performance. The results highlighted the effectiveness of certain models like Logistic Regression, SVM, and Random Forest, particularly when combined with appropriate text preprocessing techniques. Additionally, we observed distinct word patterns across different sentiment categories, which influenced our model selection and feature engineering strategies.
+
+## Additional Notes
+-The project repository contains Jupyter Notebooks documenting code implementation and model evaluation.
+-We conducted thorough exploratory data analysis (EDA) to gain insights into the dataset's characteristics and sentiment distribution.
+-Our project contributes to the field of natural language processing (NLP) by exploring various ML algorithms for sentiment analysis and highlighting the importance of text preprocessing in improving model performance.

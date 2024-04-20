@@ -22,6 +22,9 @@ This project aims to perform sentiment analysis using various machine learning a
 
 ## Dataset
 We used the [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset) from Kaggle. The dataset contains text data labeled with sentiment categories.
+Colab link:
+[PRML_NLTK](https://colab.research.google.com/drive/1ve_W16xDOUdZ6SFE2UtGImb0tKAohI6a?usp=chrome_ntp#scrollTo=W2Nlv4m5Aj2f)
+[PRML_Project](https://colab.research.google.com/drive/1_9mr_G1Wt8bteyyMEFJYBImPcIteTcSQ#scrollTo=97LHfdJXw50r)
 
 ## Methodology and Results
 Our methodology involved the following steps:
@@ -29,7 +32,7 @@ Our methodology involved the following steps:
 - **Model Training and Evaluation**: Experimentation with multiple machine learning algorithms and evaluation based on accuracy, precision, recall, and F1-score metrics.
 - **Impact of NLTK**: Comparison of model performance with and without NLTK preprocessing.
   
-Key findings and observations:
+## Key findings and observations:
 - Logistic Regression, SVM, and Random Forest exhibited superior performance.
 - NLTK preprocessing significantly improved model efficacy.
 - Distinct word patterns across sentiment categories influenced model selection and feature engineering.

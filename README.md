@@ -24,9 +24,17 @@ This project aims to perform sentiment analysis using various machine learning a
 We used the [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset) from Kaggle. The dataset contains text data labeled with sentiment categories.
 
 ## Methodology and Results
-Our methodology involved preprocessing text data, including cleaning, normalization, and vectorization. We experimented with various machine learning algorithms and evaluated their performance based on accuracy, precision, recall, and F1-score. We conducted analyses with and without NLTK preprocessing to assess its impact on model performance. The results highlighted the effectiveness of certain models like Logistic Regression, SVM, and Random Forest, particularly when combined with appropriate text preprocessing techniques. Additionally, we observed distinct word patterns across different sentiment categories, which influenced our model selection and feature engineering strategies.
+Our methodology involved the following steps:
+- **Data Preprocessing**: Cleaning, normalization, and text vectorization.
+- **Model Training and Evaluation**: Experimentation with multiple machine learning algorithms and evaluation based on accuracy, precision, recall, and F1-score metrics.
+- **Impact of NLTK**: Comparison of model performance with and without NLTK preprocessing.
+  
+Key findings and observations:
+- Logistic Regression, SVM, and Random Forest exhibited superior performance.
+- NLTK preprocessing significantly improved model efficacy.
+- Distinct word patterns across sentiment categories influenced model selection and feature engineering.
 
 ## Additional Notes
--The project repository contains Jupyter Notebooks documenting code implementation and model evaluation.
--We conducted thorough exploratory data analysis (EDA) to gain insights into the dataset's characteristics and sentiment distribution.
--Our project contributes to the field of natural language processing (NLP) by exploring various ML algorithms for sentiment analysis and highlighting the importance of text preprocessing in improving model performance.
+- The project repository includes Jupyter Notebooks documenting code implementation and model evaluation.
+- Extensive exploratory data analysis (EDA) was conducted to understand dataset characteristics and sentiment distribution.
+- This project contributes to advancing natural language processing (NLP) by exploring diverse ML algorithms for sentiment analysis and emphasizing the importance of text preprocessing.

@@ -29,6 +29,8 @@ Colab link:
 ## Short Talk
 [PRML_PROJECT](https://youtu.be/Z0HmWxXtIrk)
 
+## Demo(Hugging Face)
+[Sentiment_Analysis](https://huggingface.co/spaces/b22ee075/Sentiment-classification)
 ## Methodology and Results
 Our methodology involved the following steps:
 - **Data Preprocessing**: Cleaning, normalization, and text vectorization.

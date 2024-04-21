@@ -26,6 +26,9 @@ Colab link:
 [PRML_NLTK](https://colab.research.google.com/drive/1ve_W16xDOUdZ6SFE2UtGImb0tKAohI6a?usp=chrome_ntp#scrollTo=W2Nlv4m5Aj2f)
 [PRML_Project](https://colab.research.google.com/drive/1_9mr_G1Wt8bteyyMEFJYBImPcIteTcSQ#scrollTo=97LHfdJXw50r)
 
+## Short Talk
+[PRML_PROJECT](https://youtu.be/Z0HmWxXtIrk)
+
 ## Methodology and Results
 Our methodology involved the following steps:
 - **Data Preprocessing**: Cleaning, normalization, and text vectorization.
